@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python environment
+.env
+venv/
+env/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+/media/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Editor configurations and OS files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.DS_Store

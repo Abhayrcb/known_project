@@ -1,0 +1,8 @@
+step-1: install all backend dependencies using these command (pip install -r requirements.txt) in backend directory
+step-2: install all frontend dependencies using these command (npm install) in frontend directory
+
+
+
+registerration_url = http://127.0.0.1:8000/api/accounts/register/
+login_url = http://127.0.0.1:8000/api/accounts/login/
+
